@@ -1,0 +1,42 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyO/1Sbx/sPnkxtICopetgnK",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/raquelmendesq/exerc-polkadot/blob/main/Exerc%C3%ADcio%20L%C3%B3gica%202/exerc-01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "F_PtXjdWV7I1"
+      },
+      "outputs": [],
+      "source": [
+        "print(\"Meu nome é Raquel\")\n",
+        "print(\"sou de Manhuaçu/MG\")"
+      ]
+    }
+  ]
+}

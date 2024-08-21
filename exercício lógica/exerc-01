@@ -1,0 +1,55 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOAo2Q2SxiUKxM97dquMOOh",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/raquelmendesq/exerc-polkadot/blob/main/exerc%C3%ADcio%20l%C3%B3gica/exerc-01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 5,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "di4rpLk4QiVY",
+        "outputId": "f6d0ca57-0c8d-4697-b56c-b4cb09375cfe"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Meu nome é Raquel\n",
+            "Sou de Manhuaçu/MG\n"
+          ]
+        }
+      ],
+      "source": [
+        "print(\"Meu nome é Raquel\")\n",
+        "print(\"Sou de Manhuaçu/MG\")"
+      ]
+    }
+  ]
+}
